@@ -7,11 +7,11 @@ Your team rebuilds a website from screenshots only: same content, same look. You
 
 | Part | Owner | HTML | CSS files |
 | --- | --- | --- | --- |
-| A | [first name] | Between the PART A lines in `index.html` | `css/base.css` and `css/part-a.css` |
-| B | [first name] | Between the PART B lines in `index.html` | `css/part-b.css` |
+| A | [Natali Jawad] | Between the PART A lines in `index.html` | `css/base.css` and `css/part-a.css` |
+| B | [Fabian Cruz] | Between the PART B lines in `index.html` | `css/part-b.css` |
 | C | [first name] | Between the PART C lines in `index.html` | `css/part-c.css` |
 
-Level: [1, 2, or 3]
+Level: [1]
 
 ## Your brief
 
