@@ -1,1 +1,2 @@
 Copy the images for your level from `briefs/<your level>/images/` into this folder.
+![Yellow-orange comet logo with a round head marked by two orange spots and three diagonal streaks trailing toward the lower left.](../briefs/level-1-comet-tacos/images/logo.svg)
