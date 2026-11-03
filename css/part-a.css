@@ -1,3 +1,39 @@
 /* PART A styles. Owner: [first name]
    Only style the things inside Part A of index.html.
    Put your phone-size rules in a media query at the bottom of this file. */
+body {
+  /* Out-of-this-world street tacos, made fresh on our food truck every day. */
+  background-color:#FFFDD0;
+}
+/* Out-of-this-world street tacos, made fresh on our food truck every day. */
+p {
+  color: #2b2160;
+}
+/* Out-of-this-world street tacos, made fresh on our food truck every day. */
+/* Out-of-this-world street tacos, made fresh on our food truck every day. */
+body {
+  color: #2b2160;
+}
+body {
+  padding-bottom: 50px; /* This text is pushed down by 50 pixels */
+}
+/* Out-of-this-world street tacos, made fresh on our food truck every day. */
+/* 150px */ 
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+  button {
+    color: #fb8500;
+  }
+}
+menu description {
+  color:#5b5490;
+}
+nav {
+  color: #5b5490;
+}
+
+    body {
+      color: #2b2160;
+    }
+  
