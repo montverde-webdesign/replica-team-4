@@ -3,3 +3,29 @@
    1. Paste the @import line from your style card right below this comment, before any other rule.
    2. Style body, headings (h1, h2, h3), img, and anything every part uses, like .button.
    Teammates: ask the Part A owner to add something here. Don't edit this file yourself. */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+/* Headings and the logo | `"Fredoka", sans-serif` */
+/* Everything else | `"Nunito", sans-serif`, 18px */
+body {
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+}
+
+h1, h2, h3 {
+  font-family: 'Fredoka', sans-serif;
+}
