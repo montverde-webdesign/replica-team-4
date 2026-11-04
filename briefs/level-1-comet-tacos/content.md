@@ -28,11 +28,6 @@ Heading: The Menu
 
 Heading: Find Us This Week. Each box uses `truck.svg`.
 
-| Day | Place | Time |
-| --- | --- | --- |
-| Monday | City Park | 11 am – 2 pm |
-| Wednesday | Main Street Market | 5 pm – 9 pm |
-| Saturday | Lakeview Beach | 12 pm – 6 pm |
 
 Footer:
 - Follow the comet: @comettacos
