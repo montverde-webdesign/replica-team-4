@@ -1,3 +1,66 @@
 /* PART C styles. Owner: [first name]
    Only style the things inside Part C of index.html.
    Put your phone-size rules in a media query at the bottom of this file. */
+find-us {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 24px;
+  color: #2b2160;
+  background-color: #ffffff;
+  border: 4px solid #2b2160;
+  border-radius: 20px;
+}
+
+.find-us h2 {
+  text-align: center;
+}
+
+.location-list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+}
+
+.location-card {
+  padding: 20px;
+  text-align: center;
+  background-color: #fffdd0;
+  border: 2px solid #ffb703;
+  border-radius: 16px;
+}
+
+.location-card img {
+  width: 120px;
+  height: 80px;
+}
+
+.location-card h3 {
+  margin: 12px 0;
+}
+
+.location-card p {
+  margin: 8px 0;
+}
+
+.site-footer {
+  margin-top: 24px;
+  padding-top: 16px;
+  text-align: center;
+  border-top: 2px dashed #ffb703;
+}
+
+.site-footer p {
+  margin: 8px 0;
+}
+
+@media (max-width: 600px) {
+  .find-us {
+    padding: 16px;
+  }
+
+  .location-list {
+    grid-template-columns: 1fr;
+  }
+}
