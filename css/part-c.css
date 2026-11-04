@@ -1,3 +1,48 @@
 /* PART C styles. Owner: [first name]
    Only style the things inside Part C of index.html.
    Put your phone-size rules in a media query at the bottom of this file. */
+body {
+  color: #ffb703;
+}
+footer {
+  color:  #2b2160;
+}\
+
+h1 {
+  font-size: 56px;
+}
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+
+/* Hero taco image  320px wide */
+.hero-taco-image {
+  width: 320px;
+}
+
+
+/* Nav and Find Us width | max 1000px, centered */
+.nav-and-find-us {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* Menu width | max 760px, centered */
+.menu {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+/* Menu width | max 760px, centered */
+/* Rounded corners | 20px on boxes; 999px makes a pill shape (button, prices) */
+.box {
+  border-radius: 20px;
+}
+.pill {
+  border-radius: 999px;
+}
+
+/* Rounded corners | 20px on boxes; 999px makes a pill shape (button, prices) */
+/* Rounded corners | 20px on boxes; 999px makes a pill shape (button, prices) */
