@@ -1,14 +1,14 @@
 /* PART C styles. Owner: [first name]
    Only style the things inside Part C of index.html.
    Put your phone-size rules in a media query at the bottom of this file. */
-find-us {
+.find-us {
   box-sizing: border-box;
   width: 100%;
   max-width: 1000px;
   margin: 40px auto;
   padding: 24px;
   color: #2b2160;
-  background-color: #ffffff;
+  background-color: #ffb703;
   border: 4px solid #2b2160;
   border-radius: 20px;
 }
@@ -26,7 +26,7 @@ find-us {
 .location-card {
   padding: 20px;
   text-align: center;
-  background-color: #fffdd0;
+  background-color: #fff8e7;
   border: 2px solid #ffb703;
   border-radius: 16px;
 }
@@ -38,10 +38,11 @@ find-us {
 
 .location-card h3 {
   margin: 12px 0;
+  color: #fb8500;
 }
 
 .location-card p {
-  margin: 8px 0;
+  margin: 25px 0;
 }
 
 .site-footer {
@@ -49,7 +50,7 @@ find-us {
   padding-top: 16px;
   text-align: center;
   border-top: 2px dashed #ffb703;
-  background-color: blue;
+  background-color: #2b2160;
   color: white;
 }
 
