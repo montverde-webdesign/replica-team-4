@@ -49,10 +49,13 @@ find-us {
   padding-top: 16px;
   text-align: center;
   border-top: 2px dashed #ffb703;
+  background-color: blue;
+  color: white;
 }
 
 .site-footer p {
-  margin: 8px 0;
+  margin: 6px 0;
+  color: white;
 }
 
 @media (max-width: 600px) {
